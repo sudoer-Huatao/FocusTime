@@ -1,12 +1,12 @@
 # FocusTime
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/license/mit/) ![Version](https://img.shields.io/badge/Version-1.0.1-blue.svg)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/license/mit/) ![Version](https://img.shields.io/badge/Version-1.1.0-blue.svg)
 
 > What Apple Screen Time should've looked like.
 
 FocusTime is an app designed to help each user to manage their app usage, screen time, and focus on tasks.
 
-<img width="1710" height="676" alt="Screenshot 2026-01-13 at 20 42 48" src="https://github.com/user-attachments/assets/9630b005-c111-41ee-8458-a7d34dc27262" />
+![](https://github.com/user-attachments/assets/e8924c5a-4384-4065-89f5-e27356849e33)
 
 ---
 
@@ -23,19 +23,24 @@ The app is fully open source. We do not collect any private data.
 ---
 
 
-## 🔨Functionality
+## 🔨What it does
 
-**Reminder Notifications (require notification permission)**
+**Reminder Notifications (requires notification permission)**
 
-<img width="1710" height="206" alt="Screenshot 2026-01-13 at 20 43 23" src="https://github.com/user-attachments/assets/958ec209-b659-41d6-aa73-f9fdcc7a3f9a" />
+![](https://github.com/user-attachments/assets/eac605c9-d505-4c47-89d4-6e3ebbb83aeb)
+
 
 **App usage time at a glance**
 
-<img width="1710" height="623" alt="Screenshot 2026-01-13 at 20 43 36" src="https://github.com/user-attachments/assets/18001c50-ed0f-4d21-824c-5c0f4133fe35" />
+![](https://github.com/user-attachments/assets/f26a591b-bc16-4ce1-a2a4-b6bb7aa9f242)
 
-## How to install
 
-Download the .dmg file from the latest releases tab.
+And more!
+
+
+## 🔧How to install
+
+Download the .dmg file from the latest releases tab, open it, and **drag the app to your Applications folder**.
 
 **⚠️Important: I don't have a Apple Developer Account (yet. I'm poor :( ), so your computer might pop up a warning that says something like this:**
 
