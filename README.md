@@ -1,5 +1,7 @@
 # FocusTime
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/license/mit/) ![Version](https://img.shields.io/badge/Version-1.0.1-blue.svg)
+
 > What Apple Screen Time should've looked like.
 
 FocusTime is an app designed to help each user to manage their app usage, screen time, and focus on tasks.
@@ -9,6 +11,8 @@ FocusTime is an app designed to help each user to manage their app usage, screen
 ---
 
 **⚠️We DO NOT collect your app data. All app usage data is stored locally!**
+
+The app is fully open source. We do not collect any private data.
 
 **To allow the app to collect app usage data and send reminders, you will need to:**
 - Enable notifications for this app.
